@@ -42,8 +42,8 @@ This project aims to analyze hospital quality and safety indicators to understan
 The project aims to identify useful patterns in hospital quality indicators and evaluate how well these indicators can help predict overall hospital ratings.
 
 ## Team Members
-- Member 1: [Your Name]
-- Member 2: [Friend's Name]
+- Member 1: Suhani Chafale
+- Member 2: Saniya Sheikh
 
 ## Conclusion
 This project demonstrates how healthcare data analysis and machine learning can support the study of hospital quality and safety. The findings may help in understanding the factors associated with hospital ratings.
