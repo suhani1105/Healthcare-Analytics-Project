@@ -36,6 +36,8 @@ This project aims to analyze hospital quality and safety indicators to understan
 - `Hospital_Rating_Prediction` – Google Colab notebook containing the code and analysis.
 - `Project_Report.pdf` – Detailed project report.
 - `HospInfo.csv` – Dataset.
+- `AI PLAG Report.pdf` - Turnitin similarity report of the project.
+- `Project PPT.pptx` - Presentation Report of the project.
 
 ## Expected Outcome
 The project aims to identify useful patterns in hospital quality indicators and evaluate how well these indicators can help predict overall hospital ratings.
