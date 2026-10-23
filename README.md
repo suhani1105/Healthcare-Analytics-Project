@@ -33,10 +33,9 @@ This project aims to analyze hospital quality and safety indicators to understan
 6. Visualize and interpret the results.
 
 ## Project Files
-- `Project_Notebook.ipynb` – Google Colab notebook containing the code and analysis.
+- `Hospital_Rating_Prediction` – Google Colab notebook containing the code and analysis.
 - `Project_Report.pdf` – Detailed project report.
 - `HospInfo.csv` – Dataset, if permitted to share.
-- `Presentation.pdf` – Project presentation, if available.
 
 ## Expected Outcome
 The project aims to identify useful patterns in hospital quality indicators and evaluate how well these indicators can help predict overall hospital ratings.
